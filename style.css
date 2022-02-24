@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@500&display=swap');
+body{
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.hdqwalls.com%2Fwallpapers%2Fharry-potter-following-the-darkness-4k-tp.jpg&f=1&nofb=1);
+    background-size: cover;
+}
+#box{
+    opacity: 95%;
+    padding-top: 30px;
+    width: 1100px;
+    height: 650px;
+    background-color: aquamarine;
+    margin: 150px auto;
+    text-align: center;
+}
+#par{
+    font-family: 'Mukta', sans-serif;
+    font-size: 24px;
+    width: 300px;
+    margin: 10px auto;
+    border-bottom: 1px solid black;
+    padding: 20px 50px;
+}
+#input{
+    padding: 10px 40px;
+    background-color: chartreuse;
+    border: none;
+    box-shadow: 0 0 10px black;
+    margin-top: 20px;
+    opacity: .7;
+    border-radius: 3px;
+}
+#pole{
+    background: url(https://zxart.ee/zxscreen/border:0/mode:mix/pal:srgb/type:standard/zoom:3/id:91066/);
+    border: 1px solid black;
+    margin: 10px auto;
+    width: 810px;
+    height: 520px;
+    background-size: cover;
+    transition: 1s;
+}
+#player{
+    background: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.istockphoto.com%2Fvectors%2Fcursor-icon-hand-mouse-click-vector-stock-illustration-vector-id1249844682%3Fk%3D6%26m%3D1249844682%26s%3D170667a%26w%3D0%26h%3DY9GxSv3LvESKqfg7270XSEN38Fu6ZhnEqeQG7MaXrmY%3D&f=1&nofb=1);
+    position: relative;
+    background-size: cover;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    opacity: 0%;
+    transition: 0.3s;
+}
+#box button{
+    padding: 10px 15px;
+    background-color: burlywood;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+#start{
+    margin-right: 200px;
+}
+.buttons{
+    display: flex;
+    margin-left: 300px;
+    position: relative;
+    top: 45px;
+}
+#W{
+    position: relative;
+    left: 92px;
+    bottom: 45px;
+}
+#A{
+    position: relative;
+}
+#S{
+    position: relative;
+}
+#D{
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+
